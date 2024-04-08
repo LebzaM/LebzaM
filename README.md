@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Olebogeng. I'm a software developer, designer, moderator.
+I'm Olebogeng. I'm a software developer, designer and moderator.
 
 
 
