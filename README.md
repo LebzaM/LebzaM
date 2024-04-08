@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Olebogeng. I'm a fullstack developer, designer, moderator and currently in my final year studying information science. Im intrested in web development and design and thriving online communities. I mostly work on random projects on my free time.
+I'm Olebogeng. I'm a software developer, designer, moderator.
 
 
 
